@@ -21,6 +21,13 @@ Documentation for the framework can be found on the [Laravel website](http://lar
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+## Installation
+   git clone https://github.com/SUDIP2222/Todo-App-In-Laravel-5-And-Angularjs.git projectname
+   cd projectname
+   composer install
+   create a database and inform .env
+   php artisan key:generate
+   php artisan migrate to create tables
 
 ### License
 
