@@ -27,11 +27,11 @@ Thank you for considering contributing to the Laravel framework! The contributio
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
 
 ## Installation
-   git clone https://github.com/SUDIP2222/Todo-App-In-Laravel-5-And-Angularjs.git projectname.
-   cd projectname.
-   composer install.
-   create a database and inform .env.
-   php artisan key:generate.
-   php artisan migrate to create tables.
+       git clone https://github.com/SUDIP2222/Todo-App-In-Laravel-5-And-Angularjs.git projectname.
+       cd projectname.
+       composer install.
+       create a database and inform .env.
+       php artisan key:generate.
+       php artisan migrate to create tables.
 
 
